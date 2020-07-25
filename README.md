@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+#### I am IT student and trying to be web developer. :beginner: 
+#### I build my portfolio here. :construction_worker: 
+#### In my free time I drink coffee :coffee:
 <!--
 **jeziorski/jeziorski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
